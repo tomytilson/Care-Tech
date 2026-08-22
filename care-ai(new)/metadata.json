@@ -1,0 +1,6 @@
+{
+  "name": "Care AI",
+  "description": "Your Personalized AI Wellness & Health Coach",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
